@@ -1,0 +1,1 @@
+An animation followed by a simple sit down action and then looking into the night sky (if it is a night hour) functionality, when the player is near outer wall of heritage sites to gaze at stars.
