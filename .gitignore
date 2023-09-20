@@ -1,0 +1,4 @@
+# Ignore project files
+Unreal/SIH/Saved
+Unreal/SIH/Intermediate
+Unreal/SIH/DerivedDataCache
